@@ -22,7 +22,6 @@
                 <element inactive_on_update="false" label="Java" sequence="1" value="java"/>
             </choice>
         </element>
-        <element label="TestField" max_length="40" name="testfield" type="string"/>
         <element choice="1" label="result" max_length="40" name="result" type="choice">
             <choice>
                 <element inactive_on_update="false" label="Pass" sequence="0" value="pass"/>
