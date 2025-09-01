@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_page_registry">
+    <sys_ux_page_registry action="DELETE">
+        <active>true</active>
+        <admin_panel>3b0675fb2e362210513de92e884e0338</admin_panel>
+        <admin_panel_table>sys_ux_app_config</admin_panel_table>
+        <auth_routes/>
+        <page/>
+        <parent_app display_value="Unified Navigation app shell">c86a62e2c7022010099a308dc7c26022</parent_app>
+        <path>candidate-assessment-system</path>
+        <root_macroponent display_value="Workspace App Shell">c276387cc331101080d6d3658940ddd2</root_macroponent>
+        <sys_class_name>sys_ux_page_registry</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-07-24 13:55:42</sys_created_on>
+        <sys_id>770675fbbc362210a75da06ffd070c39</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Candidate Assessment System</sys_name>
+        <sys_package display_value="Candidate Assessment System" source="x_1647027_candid_0">d654a42b83b62210fe90f929feaad379</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Candidate Assessment System">d654a42b83b62210fe90f929feaad379</sys_scope>
+        <sys_update_name>sys_ux_page_registry_770675fbbc362210a75da06ffd070c39</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-07-24 13:55:42</sys_updated_on>
+        <title>Candidate Assessment System</title>
+    </sys_ux_page_registry>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Candidate Assessment System">d654a42b83b62210fe90f929feaad379</application>
+        <file_path/>
+        <instance_id>424d7f531b66f554699443f4bd4bcbe0</instance_id>
+        <instance_name>dev220948</instance_name>
+        <name>sys_ux_page_registry_770675fbbc362210a75da06ffd070c39</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_page_registry"><sys_ux_page_registry action="INSERT_OR_UPDATE"><active>true</active><admin_panel>3b0675fb2e362210513de92e884e0338</admin_panel><admin_panel_table>sys_ux_app_config</admin_panel_table><auth_routes/><page/><parent_app display_value="Unified Navigation app shell">c86a62e2c7022010099a308dc7c26022</parent_app><path>candidate-assessment-system</path><root_macroponent display_value="Workspace App Shell">c276387cc331101080d6d3658940ddd2</root_macroponent><sys_class_name>sys_ux_page_registry</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2025-07-24 13:55:42</sys_created_on><sys_id>770675fbbc362210a75da06ffd070c39</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Candidate Assessment System</sys_name><sys_package display_value="Candidate Assessment System" source="x_1647027_candid_0">d654a42b83b62210fe90f929feaad379</sys_package><sys_policy/><sys_scope display_value="Candidate Assessment System">d654a42b83b62210fe90f929feaad379</sys_scope><sys_update_name>sys_ux_page_registry_770675fbbc362210a75da06ffd070c39</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-07-24 13:55:42</sys_updated_on><title>Candidate Assessment System</title></sys_ux_page_registry></record_update>]]></payload>
+        <payload_hash>101913027</payload_hash>
+        <record_name>Candidate Assessment System</record_name>
+        <reverted_from/>
+        <source/>
+        <source_table>sys_upgrade_history</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-07-24 13:56:43</sys_created_on>
+        <sys_id>4346fdfb83362210fe90f929feaad381</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1983cb8d9530000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-07-24 13:56:43</sys_updated_on>
+        <type>UX Application</type>
+        <update_guid>0346fdfb693622102981a692b8b0a081</update_guid>
+        <update_guid_history>0346fdfb693622102981a692b8b0a081:101913027</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-07-24 13:56:45</sys_created_on>
+        <sys_db_object display_value="" name="sys_ux_page_registry">sys_ux_page_registry</sys_db_object>
+        <sys_id>1354d514c9f34140a1f640136e9c4400</sys_id>
+        <sys_metadata>770675fbbc362210a75da06ffd070c39</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Candidate Assessment System</sys_name>
+        <sys_package display_value="Candidate Assessment System" source="x_1647027_candid_0">d654a42b83b62210fe90f929feaad379</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Candidate Assessment System">d654a42b83b62210fe90f929feaad379</sys_scope>
+        <sys_scope_delete display_value="">58e713de78b54284a737ef4f12622290</sys_scope_delete>
+        <sys_update_name>sys_ux_page_registry_770675fbbc362210a75da06ffd070c39</sys_update_name>
+        <sys_update_version display_value="sys_ux_page_registry_770675fbbc362210a75da06ffd070c39">4346fdfb83362210fe90f929feaad381</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-07-24 13:56:45</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

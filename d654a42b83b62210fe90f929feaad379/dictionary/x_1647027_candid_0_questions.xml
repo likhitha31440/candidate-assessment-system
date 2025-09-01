@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="ed70eac083c32210fe90f929feaad3a7" label="Questions" max_length="40" name="x_1647027_candid_0_questions" type="collection">
+        <element choice="1" label="technology" max_length="40" name="technology" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Java" sequence="0" value="java"/>
+                <element inactive_on_update="false" label="Python" sequence="1" value="python"/>
+            </choice>
+        </element>
+        <element label="option_a" max_length="40" name="option_a_b_c_d" type="string"/>
+        <element choice="1" label="correct_answer" max_length="40" name="correct_answer" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="D" sequence="3" value="d"/>
+                <element inactive_on_update="false" label="A" sequence="0" value="a"/>
+                <element inactive_on_update="false" label="B" sequence="1" value="b"/>
+                <element inactive_on_update="false" label="C" sequence="2" value="c"/>
+            </choice>
+        </element>
+        <element label="question_text" max_length="40" name="question_text" type="string"/>
+        <element default="javascript:current.getTableName();" label="Class" max_length="80" name="sys_class_name" type="sys_class_name"/>
+        <element label="option_b" max_length="40" name="option_b" type="string"/>
+        <element label="option_d" max_length="40" name="option_d" type="string"/>
+        <element label="option_c" max_length="40" name="option_c" type="string"/>
+        <index name="index">
+            <element name="sys_class_name"/>
+        </index>
+    </element>
+</database>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="option_a_b_c_d" label="option_a" language="en" table="x_1647027_candid_0_questions">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>option_a_b_c_d</element>
+            <help/>
+            <hint/>
+            <label>option_a</label>
+            <language>en</language>
+            <name>x_1647027_candid_0_questions</name>
+            <plural/>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-07-25 11:42:28</sys_created_on>
+            <sys_mod_count>7</sys_mod_count>
+            <sys_name>option_a</sys_name>
+            <sys_package display_value="Candidate Assessment System" source="x_1647027_candid_0">d654a42b83b62210fe90f929feaad379</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Candidate Assessment System">d654a42b83b62210fe90f929feaad379</sys_scope>
+            <sys_update_name>sys_documentation_x_1647027_candid_0_questions_option_a_b_c_d_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-07-25 11:45:12</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
