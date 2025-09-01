@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_page_property">
+    <sys_ux_page_property action="DELETE">
+        <choices/>
+        <description>sys_ux_applicability sys_id for Workspace audience</description>
+        <name>wbApplicabilityConfigId</name>
+        <page display_value="Candidate Assessment System">770675fbbc362210a75da06ffd070c39</page>
+        <required_translations/>
+        <route/>
+        <suffix/>
+        <sys_class_name>sys_ux_page_property</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-07-24 13:55:42</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>global</sys_domain_path>
+        <sys_id>b70675fb023622103411bbb39db78a2b</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>wbApplicabilityConfigId</sys_name>
+        <sys_package display_value="Candidate Assessment System" source="x_1647027_candid_0">d654a42b83b62210fe90f929feaad379</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Candidate Assessment System">d654a42b83b62210fe90f929feaad379</sys_scope>
+        <sys_update_name>sys_ux_page_property_b70675fb023622103411bbb39db78a2b</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-07-24 13:55:46</sys_updated_on>
+        <type>string</type>
+        <unique_name>x_1647027_candid_0.770675fbbc362210a75da06ffd070c39.root.global.wbApplicabilityConfigId</unique_name>
+        <value>c916b5fb83362210fe90f929feaad3b4</value>
+    </sys_ux_page_property>
+    <sys_translated_text action="DELETE" query="documentkey=b70675fb023622103411bbb39db78a2b"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Candidate Assessment System">d654a42b83b62210fe90f929feaad379</application>
+        <file_path/>
+        <instance_id>424d7f531b66f554699443f4bd4bcbe0</instance_id>
+        <instance_name>dev220948</instance_name>
+        <name>sys_ux_page_property_b70675fb023622103411bbb39db78a2b</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_page_property"><sys_ux_page_property action="INSERT_OR_UPDATE"><choices/><description>sys_ux_applicability sys_id for Workspace audience</description><name>wbApplicabilityConfigId</name><page display_value="Candidate Assessment System">770675fbbc362210a75da06ffd070c39</page><required_translations/><route/><suffix/><sys_class_name>sys_ux_page_property</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2025-07-24 13:55:42</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>global</sys_domain_path><sys_id>b70675fb023622103411bbb39db78a2b</sys_id><sys_mod_count>1</sys_mod_count><sys_name>wbApplicabilityConfigId</sys_name><sys_package display_value="Candidate Assessment System" source="x_1647027_candid_0">d654a42b83b62210fe90f929feaad379</sys_package><sys_policy/><sys_scope display_value="Candidate Assessment System">d654a42b83b62210fe90f929feaad379</sys_scope><sys_update_name>sys_ux_page_property_b70675fb023622103411bbb39db78a2b</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-07-24 13:55:46</sys_updated_on><type>string</type><unique_name>x_1647027_candid_0.770675fbbc362210a75da06ffd070c39.root.global.wbApplicabilityConfigId</unique_name><value>c916b5fb83362210fe90f929feaad3b4</value></sys_ux_page_property><sys_translated_text action="delete_multiple" query="documentkey=b70675fb023622103411bbb39db78a2b"/></record_update>]]></payload>
+        <payload_hash>-1748863129</payload_hash>
+        <record_name>wbApplicabilityConfigId</record_name>
+        <reverted_from/>
+        <source>1654a42b83b62210fe90f929feaad37e</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-07-24 13:55:46</sys_created_on>
+        <sys_id>c516b5fb83362210fe90f929feaad3d6</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1983cb7f8680000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-07-24 13:55:46</sys_updated_on>
+        <type>UX Page Property</type>
+        <update_guid>8d16b5fb0c362210d6b3764712f7ccd5</update_guid>
+        <update_guid_history>8d16b5fb0c362210d6b3764712f7ccd5:-1748863129,c116b5fb0f3622108c6a377e5b242fd4:-276047173</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-07-24 13:56:44</sys_created_on>
+        <sys_db_object display_value="" name="sys_ux_page_property">sys_ux_page_property</sys_db_object>
+        <sys_id>07e34b8c84364fe3809f23bfdd1f2439</sys_id>
+        <sys_metadata>b70675fb023622103411bbb39db78a2b</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>wbApplicabilityConfigId</sys_name>
+        <sys_package display_value="Candidate Assessment System" source="x_1647027_candid_0">d654a42b83b62210fe90f929feaad379</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Candidate Assessment System">d654a42b83b62210fe90f929feaad379</sys_scope>
+        <sys_scope_delete display_value="">58e713de78b54284a737ef4f12622290</sys_scope_delete>
+        <sys_update_name>sys_ux_page_property_b70675fb023622103411bbb39db78a2b</sys_update_name>
+        <sys_update_version display_value="sys_ux_page_property_b70675fb023622103411bbb39db78a2b">c516b5fb83362210fe90f929feaad3d6</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-07-24 13:56:44</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

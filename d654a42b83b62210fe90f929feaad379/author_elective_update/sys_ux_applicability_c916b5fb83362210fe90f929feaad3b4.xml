@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_applicability">
+    <sys_ux_applicability action="DELETE">
+        <active>true</active>
+        <api_name>x_1647027_candid_0.Audience for app candidate-assessment-system</api_name>
+        <description/>
+        <name>Audience for app candidate-assessment-system</name>
+        <role_names/>
+        <roles>ee54a42b83b62210fe90f929feaad382,6254a42b83b62210fe90f929feaad395,a654a42b83b62210fe90f929feaad398</roles>
+        <sys_class_name>sys_ux_applicability</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-07-24 13:55:46</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>c916b5fb83362210fe90f929feaad3b4</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Audience for app candidate-assessment-system</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Candidate Assessment System" source="x_1647027_candid_0">d654a42b83b62210fe90f929feaad379</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Candidate Assessment System">d654a42b83b62210fe90f929feaad379</sys_scope>
+        <sys_update_name>sys_ux_applicability_c916b5fb83362210fe90f929feaad3b4</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-07-24 13:55:46</sys_updated_on>
+    </sys_ux_applicability>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Candidate Assessment System">d654a42b83b62210fe90f929feaad379</application>
+        <file_path/>
+        <instance_id>424d7f531b66f554699443f4bd4bcbe0</instance_id>
+        <instance_name>dev220948</instance_name>
+        <name>sys_ux_applicability_c916b5fb83362210fe90f929feaad3b4</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_applicability"><sys_ux_applicability action="INSERT_OR_UPDATE"><active>true</active><api_name>x_1647027_candid_0.Audience for app candidate-assessment-system</api_name><description/><name>Audience for app candidate-assessment-system</name><role_names/><roles>ee54a42b83b62210fe90f929feaad382,6254a42b83b62210fe90f929feaad395,a654a42b83b62210fe90f929feaad398</roles><sys_class_name>sys_ux_applicability</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2025-07-24 13:55:46</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>c916b5fb83362210fe90f929feaad3b4</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Audience for app candidate-assessment-system</sys_name><sys_overrides/><sys_package display_value="Candidate Assessment System" source="x_1647027_candid_0">d654a42b83b62210fe90f929feaad379</sys_package><sys_policy/><sys_scope display_value="Candidate Assessment System">d654a42b83b62210fe90f929feaad379</sys_scope><sys_update_name>sys_ux_applicability_c916b5fb83362210fe90f929feaad3b4</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-07-24 13:55:46</sys_updated_on></sys_ux_applicability></record_update>]]></payload>
+        <payload_hash>392218439</payload_hash>
+        <record_name>Audience for app candidate-assessment-system</record_name>
+        <reverted_from/>
+        <source>1654a42b83b62210fe90f929feaad37e</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-07-24 13:55:46</sys_created_on>
+        <sys_id>4916b5fb83362210fe90f929feaad3b9</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1983cb7f82c0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-07-24 13:55:46</sys_updated_on>
+        <type>Audience</type>
+        <update_guid>0d16b5fbbc362210ea23c97f0bf257b8</update_guid>
+        <update_guid_history>0d16b5fbbc362210ea23c97f0bf257b8:392218439</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-07-24 13:56:43</sys_created_on>
+        <sys_db_object display_value="" name="sys_ux_applicability">sys_ux_applicability</sys_db_object>
+        <sys_id>2481577e796a47c08771e55d4a731d10</sys_id>
+        <sys_metadata>c916b5fb83362210fe90f929feaad3b4</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Audience for app candidate-assessment-system</sys_name>
+        <sys_package display_value="Candidate Assessment System" source="x_1647027_candid_0">d654a42b83b62210fe90f929feaad379</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Candidate Assessment System">d654a42b83b62210fe90f929feaad379</sys_scope>
+        <sys_scope_delete display_value="">58e713de78b54284a737ef4f12622290</sys_scope_delete>
+        <sys_update_name>sys_ux_applicability_c916b5fb83362210fe90f929feaad3b4</sys_update_name>
+        <sys_update_version display_value="sys_ux_applicability_c916b5fb83362210fe90f929feaad3b4">4916b5fb83362210fe90f929feaad3b9</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-07-24 13:56:43</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

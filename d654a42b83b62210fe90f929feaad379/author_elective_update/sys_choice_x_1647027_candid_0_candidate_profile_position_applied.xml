@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="position_applied" table="x_1647027_candid_0_candidate_profile" version="3">
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>position_applied</element>
+            <name>x_1647027_candid_0_candidate_profile</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-07-23 13:45:51</sys_created_on>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>position_applied</sys_name>
+            <sys_package display_value="Candidate Assessment System" source="x_1647027_candid_0">d654a42b83b62210fe90f929feaad379</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Candidate Assessment System">d654a42b83b62210fe90f929feaad379</sys_scope>
+            <sys_update_name>sys_choice_x_1647027_candid_0_candidate_profile_position_applied</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-07-23 13:45:51</sys_updated_on>
+        </sys_choice_set>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>position_applied</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>java</label>
+            <language>en</language>
+            <name>x_1647027_candid_0_candidate_profile</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-07-24 09:51:39</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-07-24 09:51:39</sys_updated_on>
+            <value>java</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>position_applied</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>python</label>
+            <language>en</language>
+            <name>x_1647027_candid_0_candidate_profile</name>
+            <sequence>1</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-07-24 09:51:39</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-07-24 09:51:39</sys_updated_on>
+            <value>python</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>position_applied</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>frontend</label>
+            <language>en</language>
+            <name>x_1647027_candid_0_candidate_profile</name>
+            <sequence>2</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-07-24 09:51:39</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-07-24 09:51:39</sys_updated_on>
+            <value>frontend</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>position_applied</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>backend</label>
+            <language>en</language>
+            <name>x_1647027_candid_0_candidate_profile</name>
+            <sequence>3</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-07-24 09:51:40</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-07-24 09:51:40</sys_updated_on>
+            <value>backend</value>
+        </sys_choice>
+    </sys_choice>
+</record_update>

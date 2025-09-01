@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_registry_m2m_category">
+    <sys_ux_registry_m2m_category action="DELETE">
+        <experience_category display_value="Workspace">afb4e3e173322010f0ca1e666bf6a726</experience_category>
+        <order/>
+        <page_registry display_value="">770675fbbc362210a75da06ffd070c39</page_registry>
+        <sys_class_name>sys_ux_registry_m2m_category</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-07-24 13:55:43</sys_created_on>
+        <sys_id>ff0675fbe8362210c6308f360493f528</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Candidate Assessment System" source="x_1647027_candid_0">d654a42b83b62210fe90f929feaad379</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Candidate Assessment System">d654a42b83b62210fe90f929feaad379</sys_scope>
+        <sys_update_name>sys_ux_registry_m2m_category_ff0675fbe8362210c6308f360493f528</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-07-24 13:55:43</sys_updated_on>
+    </sys_ux_registry_m2m_category>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Candidate Assessment System">d654a42b83b62210fe90f929feaad379</application>
+        <file_path/>
+        <instance_id>424d7f531b66f554699443f4bd4bcbe0</instance_id>
+        <instance_name>dev220948</instance_name>
+        <name>sys_ux_registry_m2m_category_ff0675fbe8362210c6308f360493f528</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_registry_m2m_category"><sys_ux_registry_m2m_category action="INSERT_OR_UPDATE"><experience_category display_value="Workspace">afb4e3e173322010f0ca1e666bf6a726</experience_category><order/><page_registry display_value="">770675fbbc362210a75da06ffd070c39</page_registry><sys_class_name>sys_ux_registry_m2m_category</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2025-07-24 13:55:43</sys_created_on><sys_id>ff0675fbe8362210c6308f360493f528</sys_id><sys_mod_count>0</sys_mod_count><sys_name/><sys_package display_value="Candidate Assessment System" source="x_1647027_candid_0">d654a42b83b62210fe90f929feaad379</sys_package><sys_policy/><sys_scope display_value="Candidate Assessment System">d654a42b83b62210fe90f929feaad379</sys_scope><sys_update_name>sys_ux_registry_m2m_category_ff0675fbe8362210c6308f360493f528</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-07-24 13:55:43</sys_updated_on></sys_ux_registry_m2m_category></record_update>]]></payload>
+        <payload_hash>1415470750</payload_hash>
+        <record_name/>
+        <reverted_from/>
+        <source/>
+        <source_table>sys_upgrade_history</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-07-24 13:56:44</sys_created_on>
+        <sys_id>9346fdfb83362210fe90f929feaad393</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1983cb8da3d0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-07-24 13:56:44</sys_updated_on>
+        <type>UX Application Category M2M</type>
+        <update_guid>5346fdfbbd36221017b19633a3e3f593</update_guid>
+        <update_guid_history>5346fdfbbd36221017b19633a3e3f593:1415470750</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-07-24 13:56:44</sys_created_on>
+        <sys_db_object display_value="" name="sys_ux_registry_m2m_category">sys_ux_registry_m2m_category</sys_db_object>
+        <sys_id>1d7c5a2bb5524a9ebe4b2957b46ffaa4</sys_id>
+        <sys_metadata>ff0675fbe8362210c6308f360493f528</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Candidate Assessment System" source="x_1647027_candid_0">d654a42b83b62210fe90f929feaad379</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Candidate Assessment System">d654a42b83b62210fe90f929feaad379</sys_scope>
+        <sys_scope_delete display_value="">58e713de78b54284a737ef4f12622290</sys_scope_delete>
+        <sys_update_name>sys_ux_registry_m2m_category_ff0675fbe8362210c6308f360493f528</sys_update_name>
+        <sys_update_version display_value="sys_ux_registry_m2m_category_ff0675fbe8362210c6308f360493f528">9346fdfb83362210fe90f929feaad393</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-07-24 13:56:44</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
